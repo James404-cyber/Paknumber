@@ -37,6 +37,6 @@ $ python2 Pakcrack.py
 ```
 pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 install requests ; pip2 install mechanize ; pip2 install bs4 ; pkg install git ; git clone https://github.com/James404-cyber/Paknumber.git ; cd Paknumber ; python2 Pakcrack.py
 ```
- TOOL USER : (CONTACT FOR ME)</br>
+ TOOL USER : (MRJAMES404)</br>
  TOOL PASS : (CONTACT FOR ME)</br>
  [![Facebook](https://img.shields.io/badge/Facebook-JAMES-blue?style=flat-square&logo=facebook)](https://www.facebook.com/Apni.bapka.account7)</br>
